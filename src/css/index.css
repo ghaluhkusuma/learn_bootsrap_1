@@ -1,0 +1,33 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap');
+
+* {
+    font-family: "Inter";
+}
+
+.bg-banner{
+    background-color: #f3f4fb;
+}
+.title-banner{
+    font-size: 16px;
+    font-weight: 600;
+}
+.btn-banner{
+    background-color: #4468e7;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.navbar{
+    border-bottom: 1px solid #efefef;
+    color: #888;
+}
+.active{
+    color: blue !important;
+}
+.btn-nav{
+    background-color: #4468e7;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
