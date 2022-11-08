@@ -19,8 +19,7 @@
     color: white;
 }
 .navbar{
-    border-bottom: 1px solid #efefef;
-    color: #888;
+        color: #888;
 }
 .active{
     color: blue !important;
@@ -30,4 +29,30 @@
     border: none;
     border-radius: 10px;
     color: white;
+}
+
+.container h1{
+    margin-top: 20px;
+    font-size: 52px;
+    font-weight: 600;
+}
+.img-fluid {
+    width: 70%;
+}
+.title{
+    color: #888;
+    font-size: 16px;
+    font-weight: 600;
+    }
+.subtitle {
+    font-size: 32px;
+    font-weight: 600;
+}
+.subtitles{
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.mt-10{
+    margin-top: 5rem;
 }
